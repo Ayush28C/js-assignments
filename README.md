@@ -1,2 +1,3 @@
 # js-assignments
-for javascript assignmnets
+For javascript assignments.
+Edited the readme file.
